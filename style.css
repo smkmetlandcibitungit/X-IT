@@ -8,7 +8,8 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 html {
@@ -195,6 +196,7 @@ section {
 }
 
 .title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 3rem;
   text-align: center;
 }
@@ -369,7 +371,11 @@ article .icon {
   width: 90%;
   height: 90%;
 }
-
+.video-v{
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
 .project-title {
   margin: 1rem;
   color: black;
